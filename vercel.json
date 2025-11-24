@@ -1,7 +1,5 @@
 {
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
-  "framework": "vite",
-  "env": {},
-  "nodeVersion": "18.x"
+  "framework": "vite"
 }
