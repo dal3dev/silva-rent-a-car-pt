@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: './',  // ⚠️ Isso é crucial para deploy em Netlify
+  base: './', // <--- MUITO IMPORTANTE para deploy em Netlify
 })
